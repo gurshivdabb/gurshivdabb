@@ -39,14 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 - ✉️ [YourEmail@domain.com](gurshivdabb@gmail.com)
