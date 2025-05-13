@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi there, I'm Gurshiv Singh Dabb
 
-<!--
-**gurshivdabb/gurshivdabb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Major | 💻 Aspiring Software Developer  
+📍 University of Manitoba 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💡 Passionate about cloud computing, automation, and scalable systems
+- 🧠 Strong foundation in data structures, algorithms, and software design
+- 💬 Skilled communicator with experience in team collaboration and customer service
+- 🔧 Always learning — currently diving into **DevOps**, **SQL**, and **Power BI**
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** Java, Python, C++, HTML, CSS, JavaScript  
+**DevOps Tools:** Git, Docker, GitHub Actions, Bash, PowerShell  
+**Learning:** Kubernetes, Terraform, Jenkins, AWS, Power Automate  
+**Soft Skills:** Problem-solving, Analytical Thinking, Clear Communication
+
+---
+
+## 📦 Featured Projects
+
+### 🔹 DevOps Portfolio (In Progress)
+*CI/CD | Docker | GitHub Actions | AWS EC2*  
+> Building and automating deployment pipelines using real-world DevOps practices.
+
+### 🔹 Greed Game (Java OOP Project)
+*Java | Interfaces | Game Logic*  
+> Implemented game logic and viewable interfaces in a tile-based board game for COMP 2150.
+
+### 🔹 Web-Based Games
+*HTML | CSS | JavaScript*  
+> Created fully functional browser games like Snake, Brick Breaker, and Air Hockey.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- ✉️ [YourEmail@domain.com](gurshivdabb@gmail.com)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/gurshiv-dabb/))
+
+---
