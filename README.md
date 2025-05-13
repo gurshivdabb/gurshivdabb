@@ -29,13 +29,9 @@
 *CI/CD | Docker | GitHub Actions | AWS EC2*  
 > Building and automating deployment pipelines using real-world DevOps practices.
 
-### 🔹 Greed Game (Java OOP Project)
-*Java | Interfaces | Game Logic*  
-> Implemented game logic and viewable interfaces in a tile-based board game for COMP 2150.
-
 ### 🔹 Web-Based Games
 *HTML | CSS | JavaScript*  
-> Created fully functional browser games like Snake, Brick Breaker, and Air Hockey.
+> Created fully functional browser games like Air Hockey.
 
 ---
 
