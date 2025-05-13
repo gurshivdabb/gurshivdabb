@@ -41,7 +41,7 @@
 
 ## 📫 Connect with Me
 
-- ✉️ [YourEmail@domain.com]([gurshivdabb@gmail.com])
-- 💼 [LinkedIn]([https://www.linkedin.com/in/gurshiv-dabb/])
+- ✉️ [gurshivdabb@gmail.com]
+- 💼 [https://www.linkedin.com/in/gurshiv-dabb/]
 
 ---
