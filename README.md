@@ -10,24 +10,19 @@
 - 💡 Passionate about cloud computing, automation, and scalable systems
 - 🧠 Strong foundation in data structures, algorithms, and software design
 - 💬 Skilled communicator with experience in team collaboration and customer service
-- 🔧 Always learning — currently diving into **DevOps**, **SQL**, and **Power BI**
+- 🔧 Always learning — currently diving into learning **Software Engineering** and **DevOps** 
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages:** Java, Python, C++, HTML, CSS, JavaScript  
-**DevOps Tools:** Git, Docker, GitHub Actions, Bash, PowerShell  
-**Learning:** Kubernetes, Terraform, Jenkins, AWS, Power Automate  
+**Languages:** Java, Python, C++, HTML, CSS, JavaScript 
+**Learning:** Software Engineering basics, Git, Docker, GitHub Actions, Bash, PowerShell   
 **Soft Skills:** Problem-solving, Analytical Thinking, Clear Communication
 
 ---
 
 ## 📦 Featured Projects
-
-### 🔹 DevOps Portfolio (In Progress)
-*CI/CD | Docker | GitHub Actions | AWS EC2*  
-> Building and automating deployment pipelines using real-world DevOps practices.
 
 ### 🔹 Web-Based Games
 *HTML | CSS | JavaScript*  
