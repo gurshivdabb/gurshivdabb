@@ -32,7 +32,7 @@
 
 ## 📫 Connect with Me
 
-- ✉️ [gurshivdabb@gmail.com]
+- ✉️ [dabbgurshiv@gmail.com]
 - 💼 [https://www.linkedin.com/in/gurshiv-dabb/]
 
 ---
