@@ -16,8 +16,8 @@
 
 ## 🛠️ Technical Skills
 
-**Languages:** Java, Python, C++, HTML, CSS, JavaScript 
-**Learning:** Software Engineering basics, Git, Docker, GitHub Actions, Bash, PowerShell   
+**Languages:** Java, Python, C++, HTML, CSS, JavaScript, Git, Github, React, MongoDB, Express, Node.js 
+**Learning:** Software Engineering basics, Docker 
 **Soft Skills:** Problem-solving, Analytical Thinking, Clear Communication
 
 ---
