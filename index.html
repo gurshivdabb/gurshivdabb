@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gurshiv Singh Dabb — CS Student & Aspiring Software Developer</title>
+  <meta name="description" content="Personal CS portfolio of Gurshiv Singh Dabb, a Computer Science student at University of Manitoba specializing in backend systems, distributed infrastructure, and full-stack developer tooling. Seeking SWE internship and new-grad roles.">
+  
+  <!-- Open Graph / Social Media Meta Tags -->
+  <meta property="og:title" content="Gurshiv Singh Dabb — CS Student & Developer Portfolio">
+  <meta property="og:description" content="CS student interested in backend systems, distributed infrastructure, and clean developer tooling. View projects & resume.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="assets/profile.jpg">
+
+  <!-- Favicon -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚡</text></svg>">
+
+  <!-- Apply saved / OS theme before first paint (prevents light-mode flash) -->
+  <script>
+    (function () {
+      var t = null;
+      try { t = localStorage.getItem('theme'); } catch (e) {}
+      if (!t) t = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      document.documentElement.setAttribute('data-theme', t);
+    })();
+  </script>
+
+  <!-- Main Stylesheet -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- ==========================================================================
+       NAVIGATION BAR
+       ========================================================================== -->
+  <nav class="navbar" id="navbar" aria-label="Main Navigation">
+    <div class="container navbar-container">
+      <!-- Nav Logo -->
+      <a href="#hero" class="nav-logo" id="nav-logo" aria-label="Gurshiv Singh Dabb Portfolio Home">
+        gurshiv<span class="accent">.dev</span>
+      </a>
+
+      <!-- Navigation Links + Controls -->
+      <div class="nav-right">
+        <ul class="nav-links" id="nav-links">
+          <li><a href="#about" class="nav-link">About</a></li>
+          <li><a href="#experience" class="nav-link">Experience</a></li>
+          <li><a href="#projects" class="nav-link">Projects</a></li>
+          <li><a href="#contact" class="nav-link">Contact</a></li>
+        </ul>
+
+        <!-- Light / Dark Mode Theme Toggle Button -->
+        <button id="theme-toggle-btn" class="theme-toggle-btn" aria-label="Toggle dark and light mode" title="Toggle theme">
+          <!-- Icon injected dynamically by main.js -->
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <main>
+    <!-- ==========================================================================
+         1. HERO SECTION (Fixed Dark Navy Background in both Light & Dark modes)
+         ========================================================================== -->
+    <section class="hero-section" id="hero" aria-label="Hero Introduction">
+      <div class="container">
+        <div class="hero-grid">
+          
+          <!-- LEFT Side: Profile Photo -->
+          <div class="hero-photo-wrapper scroll-reveal">
+            <div class="hero-photo-glow"></div>
+            <img 
+              src="assets/profile.jpg" 
+              alt="Gurshiv Singh Dabb - CS Student Portrait" 
+              class="hero-photo" 
+              width="250" 
+              height="250" 
+              loading="eager"
+            />
+          </div>
+
+          <!-- RIGHT Side: Intro, Name, Tagline, Primary CTA -->
+          <div class="hero-content scroll-reveal">
+            <div class="hero-status-pill">
+              <span class="status-dot"></span>
+              <span id="hero-status-text">Seeking New-Grad SWE Roles</span>
+            </div>
+
+            <h1 class="hero-title" id="hero-name">Gurshiv Singh Dabb</h1>
+            
+            <!-- One-time typing effect target -->
+            <div class="hero-tagline" id="hero-typing-tagline" aria-label="Tagline: CS Student & Aspiring Developer">
+              CS Student & Aspiring Developer
+            </div>
+
+            <p class="hero-intro" id="hero-intro">
+              Soon-to-be CS grad from the University of Manitoba passionate about backend systems, distributed key-value engines, and building developer tools that don't get in the way.
+            </p>
+
+            <!-- Single Primary CTA Button (Resume is NOT here, lives only in nav) -->
+            <a href="#projects" class="btn-primary-cta">
+              View projects
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+            </a>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- ==========================================================================
+         2. ABOUT SECTION
+         ========================================================================== -->
+    <section class="about-section" id="about" aria-label="About Me">
+      <div class="container">
+        <div class="section-header scroll-reveal">
+          <span class="mono-tag">// 01. ABOUT</span>
+          <h2 class="section-title">Background & Focus Areas</h2>
+        </div>
+
+        <!-- 2-4 sentence student bio (casual-professional, sounds like a real student) -->
+        <p class="about-bio scroll-reveal" id="about-bio">
+          I got into computer science because I wanted to understand how the apps I used every day actually worked, and that curiosity hasn't gone away. I'm happiest when I'm building something end to end and figuring out why each piece fits the way it does.
+        </p>
+
+        <!-- 3 small colored icon chips with light tinted backgrounds -->
+        <div class="focus-areas-grid" id="focus-areas-container">
+          <!-- Rendered dynamically from js/data.js -->
+        </div>
+      </div>
+    </section>
+
+    <!-- ==========================================================================
+         3. EXPERIENCE SECTION
+         ========================================================================== -->
+    <section class="experience-section" id="experience" aria-label="Work Experience">
+      <div class="container">
+        <div class="section-header scroll-reveal">
+          <span class="mono-tag">// 02. EXPERIENCE</span>
+          <h2 class="section-title">Where I've Worked</h2>
+        </div>
+
+        <div class="experience-timeline" id="experience-container">
+          <!-- Rendered dynamically from js/data.js -->
+        </div>
+      </div>
+    </section>
+
+    <!-- ==========================================================================
+         4. PROJECTS SECTION (Full Dedicated Section with Alt Background Tint)
+         ========================================================================== -->
+    <section class="projects-section" id="projects" aria-label="Featured Projects">
+      <div class="container">
+        <div class="section-header scroll-reveal">
+          <span class="mono-tag">// 03. PROJECTS</span>
+          <h2 class="section-title">Selected Works</h2>
+        </div>
+
+        <div class="projects-grid" id="projects-container">
+          <!-- Rendered dynamically from js/data.js -->
+        </div>
+      </div>
+    </section>
+
+    <!-- ==========================================================================
+         4. CONTACT SECTION
+         ========================================================================== -->
+    <section class="contact-section" id="contact" aria-label="Contact Information">
+      <div class="container">
+        <div class="contact-content">
+          <div class="scroll-reveal">
+            <span class="mono-tag">// 04. CONTACT</span>
+            <h2 class="contact-title">Let's Connect</h2>
+            <p class="contact-subtext" id="contact-subtext">
+              I'm actively looking for new-grad roles for 2027. Feel free to shoot me an email or connect on GitHub!
+            </p>
+          </div>
+
+          <!-- Circular Icon Badges each paired with a small monospace label directly underneath -->
+          <div class="contact-badges-grid" id="contact-badges-container">
+            <!-- Rendered dynamically from js/data.js -->
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ==========================================================================
+       5. MINIMAL FOOTER
+       ========================================================================== -->
+  <footer class="footer">
+    <div class="container footer-container">
+      <p class="footer-copy">
+        &copy; <span id="footer-year">2026</span> <span id="footer-name">Gurshiv Singh Dabb</span>
+      </p>
+      <a href="#hero" class="back-to-top-btn" aria-label="Scroll back to top of page">
+        Back to top &uarr;
+      </a>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="js/data.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
