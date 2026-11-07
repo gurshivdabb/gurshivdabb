@@ -2,7 +2,7 @@
  
 🎓 Computer Science student at the **University of Manitoba** (graduating Dec 2026)  
 💻 Full-stack developer who enjoys the backend: APIs, data models, and the services behind web apps  
-🌐 Portfolio: [gurshivdabb.github.io](https://gurshivdabb.github.io)
+🌐 Portfolio: [gurshivdabb.github.io//gurshivdabb](https://gurshivdabb.github.io//gurshivdabb/)
  
 ---
  
